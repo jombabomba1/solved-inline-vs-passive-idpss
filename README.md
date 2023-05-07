@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-inline-vs-passive-idpss
+<br>
+You work for a network solutions provider. Your goal is to become a network engineer and design enterprise networks. You began with the company as a technical support analyst who helped clients troubleshoot hardware and software. Because of your strong communication skills, your boss has been sending you on sales calls, but you feel that this task is moving you away from your goal of network engineering. As a compromise, you and your boss have agreed on a plan in which you will make a series of video training programs to explain complicated networking topics to clients.
+
+Your first video will explain the difference between inline and passive IDPS devices. In preparation for video production, you must submit an outline of your presentation along with explanatory diagrams. Prepare a one- to two-page outline that defines inline and passive IDPSs, the hardware required, the advantages and disadvantages of each, and typical situations in which one is preferred over the other. Include at least two diagrams.
